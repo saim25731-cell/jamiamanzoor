@@ -1,6 +1,5 @@
 name = "jamiamanzoor-site"
 compatibility_date = "2025-12-31"
-main = "dist/index.js"
 
 [site]
 bucket = "./dist"
