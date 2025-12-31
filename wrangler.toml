@@ -1,6 +1,8 @@
+jamiamanzoor
 name = "JAMIAMANZOOR"
 compatibility_date = "2025-12-31"
 
 [site]
 bucket = "./dist"
 entry-point = "workers-site"
+
