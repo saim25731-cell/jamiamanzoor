@@ -1,9 +1,6 @@
-{
-  "name": "Jamiamanzoor",
-  "compatibility_date": "2025-12-31",
-  "type": "webpack", // optional if you’re using Workers Sites
-  "site": {
-    "bucket": "./dist",
-    "entry-point": "workers-site"
-  }
-}
+name = "Jamiamanzoor"
+compatibility_date = "2025-12-31"
+
+[site]
+bucket = "./dist"
+entry-point = "workers-site"
